@@ -6,8 +6,8 @@ export function ImageTwo(){
             <div className='ImgHeadlineTwo'>
                 <h2>iPhone 14</h2>
                 <h3>Big and bigger</h3>
-                <a href="">Learn more </a>
-                <a href="">Buy</a>
+                <a href="/#">Learn more </a>
+                <a href="/#">Buy</a>
             </div>
             <div>
                 <figure className="imageTwo">
