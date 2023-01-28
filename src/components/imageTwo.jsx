@@ -1,16 +1,16 @@
-import '../assets/css/navar.css'
-export function ImageOne(){
+import '../assets/css/image-Two.css'
+export function ImageTwo(){
     return(
         <div>
          <div className='imageDiv'>
-            <div className='ImgHeadline'>
-                <h2>iPhone 14 Pro</h2>
-                <h3>Pro.Beyond</h3>
+            <div className='ImgHeadlineTwo'>
+                <h2>iPhone 14</h2>
+                <h3>Big and bigger</h3>
                 <a href="">Learn more </a>
                 <a href="">Buy</a>
             </div>
             <div>
-                <figure className="imageOne">
+                <figure className="imageTwo">
                 </figure>
             </div>
          </div>

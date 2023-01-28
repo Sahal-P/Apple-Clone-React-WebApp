@@ -6,6 +6,6 @@ function ImgsFeed(){
         <div>
         <ImageOne/>
         </div>
-    )
+            )
 }
 export default ImgsFeed;
